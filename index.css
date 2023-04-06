@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+
+div {
+    text-align: center;
+} 
+img{
+    margin-top: 200px;
+    height: 300px;
+    width: 200px;
+    cursor: pointer;
+}
+input{
+    height: 30px;
+    width: 200px;
+    border: 5px solid rgb(169, 199, 37);
+    border-radius: 8px;
+}
